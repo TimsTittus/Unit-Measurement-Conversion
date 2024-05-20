@@ -9,6 +9,9 @@
 <h1>Unit Converter</h1>
 
 <p>This is a simple unit converter program written in C. It allows users to convert temperature, currency, and mass units based on their input.</p>
+
+<img align="center" src="https://play-lh.googleusercontent.com/R46vqH8qKkBTxEcTZJ3WzAfVaeG7xXHdKBCi6jnhoFadggWy8NoA3GfxnrSkpUYCxjE=w240-h480-rw" alt="unit measurement icon" width="500" height="400">
+
 <p>Forgot how to convert degree Fahrenheit to Celsius? Don’t worry. We have a solution for you. This unit converter converts basic units such as temperature, currency, and mass.</p>
 
 <h2>Table of Contents</h2>
